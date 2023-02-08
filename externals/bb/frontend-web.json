@@ -1,0 +1,144 @@
+{
+  "name": "Angular",
+  "expertises": [
+    {
+      "name": "Nivel 1 - Básico",
+      "cards": [
+        {
+          "id": "angular-fundamentals"
+        },
+        {
+          "id": "typescript-fundamentals"
+        },
+        {
+          "id": "rxjs-fundamentals"
+        }
+      ]
+    },
+    {
+      "name": "Nivel 2 - Intermediário",
+      "cards": [
+        {
+          "id": "angular-templates"
+        },
+        {
+          "id": "angular-rendering"
+        },
+        {
+          "id": "angular-services"
+        },
+        {
+          "id": "angular-routing"
+        },
+        {
+          "id": "angular-cli"
+        }
+      ]
+    },
+    {
+      "name": "Nivel 3 - Avançado",
+      "cards": [
+        {
+          "id": "angular-state-management:"
+        },
+        {
+          "id": "angular-forms"
+        },
+        {
+          "id": "angular-modules"
+        },
+        {
+          "id": "angular-dependency-injection"
+        },
+        {
+          "id": "angular-testing"
+        },
+        {
+          "id": "angular-services"
+        },
+        {
+          "id": "angular-routing"
+        },
+        {
+          "name": "Microfrontends com Angular",
+          "short-description": "Microfrontends com Angular",
+          "key-objectives": [
+            "Conhecer o conceito de microfrontends",
+            "Conhecer o Module Federation do Webpack",
+            "Aprender a utilizar o Module Federation para Microfrontends em Angular"
+          ],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "ARTICLE",
+              "title": "The Microfrontend Revolution: Module Federation with Angular",
+              "link": "https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/"
+            },
+            {
+              "type": "SITE",
+              "title": "Webpack - Module Federation",
+              "link": "https://webpack.js.org/concepts/module-federation/"
+            },
+            {
+              "type": "SITE",
+              "title": "Microfontends",
+              "link": "https://micro-frontends.org/"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "MFEs , Micro-Frontends with Module Federation and Angular",
+              "link": "https://www.youtube.com/watch?v=EGdbmj-kj88"
+            },
+            {
+              "type": "PODCAST",
+              "title": "Hipsters 164 - Microfrontends",
+              "link": "https://www.hipsters.tech/microfrontends-hipsters-164/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Fundamentos Web",
+      "cards": [
+        {
+          "id": "html-fundamentals"
+        },
+        {
+          "id": "css-fundamentals"
+        },
+        {
+          "id": "javascript-fundamentals"
+        },
+        {
+          "id": "dom-fundamentals"
+        },
+        {
+          "id": "javascript-accessibility"
+        },
+        {
+          "id": "seo-strategies"
+        },
+        {
+          "id": "responsive-design"
+        },
+        {
+          "id": "http-fundamentals"
+        }
+      ]
+    },
+    {
+      "name": "Controle de Versão",
+      "cards": [
+        {
+          "id": "frontend-semantic-versioning"
+        },
+        {
+          "id": "git-and-github-fundamentals"
+        }
+      ]
+    }
+  ]
+}
