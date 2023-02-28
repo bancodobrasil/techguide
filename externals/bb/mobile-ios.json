@@ -1,0 +1,892 @@
+{
+  "name": "iOS",
+  "expertises": [
+    {
+      "name": "Nivel 1 - Básico",
+      "cards": [
+        {
+          "name": "iOS - Fundamentos",
+          "logo": null,
+          "short-description": null,
+          "key-objectives": [
+              "O iOS SDK (Software Development Kit) permite o desenvolvimento de aplicativos móveis no iOS. Desenvolvimento iOS não é apenas para programadores ou codificadores com anos de experiência, na verdade, os dados mostram que há um número significativo de criativos, estudantes, escritores que estão aprendendo Desenvolvimento iOS. O ambiente de desenvolvimento da Apple é um ecossistema em constante crescimento, com milhares de desenvolvedores em todo o mundo reunidos na conferência anual de desenvolvedores da Apple chamada WWDC."
+          ],
+          "aditional-objectives": null,
+          "contents": [
+              {
+                  "type": "ARTICLE",
+                  "title": "How to become an iOS Developer",
+                  "link": "https://medium.com/bumble-tech/how-to-become-an-ios-developer-91aaa4719a91"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "How to become a professional iOS developer",
+                  "link": "https://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/"
+              }, 
+              {
+                "type": "ARTICLE",
+                "title": "So You Want To Make iPhone Apps? 10 Projects For Beginners",
+                "link": "https://www.makeuseof.com/tag/want-make-iphone-apps-6-projects-beginners/"
+              }, 
+              {
+                "type": "SITE",
+                "title": "How to become a professional iOS developer",
+                "link": "https://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/"
+              },                    
+              {
+                  "type": "COURSE",
+                  "title": "Introduction to Xcode(Free)",
+                  "link": "https://www.pluralsight.com/courses/xcode-ios-fundamentals"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "Xcode Debugging(Free)",
+                  "link": "https://www.udacity.com/course/xcode-debugging--ud774"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "Build Great IOS Apps (Swift)(Free)",
+                  "link": "https://www.udemy.com/course/build-great-ios-apps-with-swift/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-MlihJ_LjnhWT5TBMjSurzQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=CuIbQrBnhiw"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "The Complete Swift iOS Developer - Create Real Apps in Swift(Free)",
+                  "link": "https://www.udemy.com/course/the-complete-ios-10-developer-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-avNNHEJpk2ksxegcfuEVow&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=JVFxdTr9V80"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "This Is How You Make iPhone Apps - iOS Development Course(Free)",
+                  "link": "https://www.udemy.com/course/iosdevelopment/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-zKjkmL__Qx7m7DeVoT9Hhw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "iOS App Development For Beginners - No Swift Skill Required(Free)",
+                  "link": "https://www.udemy.com/course/iosdevelopment/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-zKjkmL__Qx7m7DeVoT9Hhw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "iOS Fundamentals(Free)",
+                  "link": "https://www.pluralsight.com/courses/ios-11-fundamentals?clickid=R8CXgcTh6xyNTqYSvDyHPxH9UkAy4qwmZx3MyU0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "Basic Swift Programming and iOS - Free Preview(Free)",
+                  "link": "https://www.udemy.com/course/the-complete-ios-developer-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KHREbbAs7zsqQH0Bj.9jQg&utm_medium=udemyads&utm_source=aff-campaign"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "Introduction to iOS 11 Development: Swift 4 and Xcode 9(Free)",
+                  "link": "https://www.udemy.com/course/the-complete-ios-developer-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KHREbbAs7zsqQH0Bj.9jQg&utm_medium=udemyads&utm_source=aff-campaign"
+              }
+          ],
+          "alura-contents": [
+              {
+                  "type": "COURSE",
+                  "title": "Formação Desenvolva seu primeiro app em iOS",
+                  "link": "https://www.alura.com.br/formacao-ios?gclid=CjwKCAiArY2fBhB9EiwAWqHK6iu6pClpJDn7-Oko47z7NzSUGFhhQjnlP8Swq-RL6_nkPRZD6aZVyhoC29YQAvD_BwE"
+              }
+          ]
+        },
+        {
+          "name": "Objective-C",
+          "logo": null,
+          "short-description": null,
+          "key-objectives": [
+              "Objective-C foi por muito tempo a linguagem de programação utilizada para escrever software para OS X e iOS. É um superset da linguagem de programação C e provê recursos de orientação a objetos e tempo de execução dinâmicos. Objective-C herda a sintaxe, tipos primitivos e declarações de comandos de fluxo da linguagem C e adiciona sintaxe para definição de classes e métodos. Ela também adiciona suporte a nível de linguagem para gerenciamento de gráficos de objetos e objetos literais enquanto fornece tipagem e vinculo dinâmicos, adiando muitas responsabilidades até o momento da execução."
+          ],
+          "aditional-objectives": null,
+          "contents": [
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Definindo classes (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#//apple_ref/doc/uid/TP40011210-CH3-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Trabalhando com objetos (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithObjects/WorkingwithObjects.html#//apple_ref/doc/uid/TP40011210-CH4-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Encapsulando dados (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/EncapsulatingData/EncapsulatingData.html#//apple_ref/doc/uid/TP40011210-CH5-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Customizando classes existentes (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/CustomizingExistingClasses/CustomizingExistingClasses.html#//apple_ref/doc/uid/TP40011210-CH6-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Trabalhando com protocolos (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithProtocols/WorkingwithProtocols.html#//apple_ref/doc/uid/TP40011210-CH11-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Valores e coleções (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/FoundationTypesandCollections/FoundationTypesandCollections.html#//apple_ref/doc/uid/TP40011210-CH7-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc]Trabalhando com blocos (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html#//apple_ref/doc/uid/TP40011210-CH8-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc]Lidando com erros (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ErrorHandling/ErrorHandling.html#//apple_ref/doc/uid/TP40011210-CH9-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Convenções (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "Stanford Course",
+                  "link": "https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-sd/id395631522"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Blocks] Practical Blocks",
+                  "link": "https://www.mikeash.com/pyblog/friday-qa-2009-08-14-practical-blocks.html"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Blocks] How Do I Declare A Block in Objective-C?",
+                  "link": "http://fuckingblocksyntax.com/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Blocks] How blocks are implemented (and the consequences)?",
+                  "link": "https://www.cocoawithlove.com/2009/10/how-blocks-are-implemented-and.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[KVC - Key Value Coding] About Key-Value Coding",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[KVC - Key Value Coding] Let's Build Key-Value Coding",
+                  "link": "https://www.mikeash.com/pyblog/friday-qa-2013-02-08-lets-build-key-value-coding.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Tool free bridging] Toll Free Bridging Internals",
+                  "link": "https://www.mikeash.com/pyblog/friday-qa-2010-01-22-toll-free-bridging-internals.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[KVO - Key Value Observing] Introduction to Key-Value Observing Programming Guide",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[KVO - Key Value Observing] Key Value Observing",
+                  "link": "https://nshipster.com/key-value-observing/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Runtime] Objective-C Runtime Programming Guide",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Runtime] Key-Value Observing Implementation Details",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Runtime] Method Swizzling",
+                  "link": "https://nshipster.com/method-swizzling/"
+              }
+          ]
+        },
+        {
+          "name": "Swift",
+          "logo": null,
+          "short-description": null,
+          "key-objectives": [
+              "Swift é uma nova linguagem de progamação para desenvolvimento de aplicativos para iOS, macOS, watchOS e tvOS. Apesar disso, muitas partes da linguagem Swift serão familiares quando consideradas experiências anteriores de desenvolvimento em C e Objective-C. Swift provê suas próprias versões de todos os tipos fundamentais de C e Objective-C, incluindo Int para inteiros, Double e Float para valores de ponto flutuante, Bool para valores boleanos e String para dados textuais. Swift também provê versões poderosas dos três principais tipos de coleções, Array, Set e Dictionary"
+          ],
+          "aditional-objectives": null,
+          "contents": [
+              {
+                  "type": "YOUTUBE",
+                  "title": "[Stanford] Stanford iOS Development - Swift",
+                  "link": "https://www.youtube.com/@stanfordiosdevelopment6432/videos"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "[Stanford] CS193p - Developing Apps for iOS - Swift",
+                  "link": "https://cs193p.sites.stanford.edu/2020"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] The Basic",
+                  "link": "https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Closures",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Generics",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Protocols",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Structures and Classes",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Enumerations",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/"
+              },
+              {
+                  "type": "BOOK",
+                  "title": "The Swift Programming Language (Swift 5.7)",
+                  "link": "https://books.apple.com/br/book/the-swift-programming-language-swift-5-7/id881256329?uo=4&mt=11"
+              },
+              {
+                  "type": "BOOK",
+                  "title": "Advanced Swift",
+                  "link": "https://www.objc.io/books/advanced-swift/"
+              },
+              {
+                  "type": "BOOK",
+                  "title": "Swift Apprentice",
+                  "link": "https://www.kodeco.com/books/swift-apprentice"
+              },
+              {
+                  "type": "SITE",
+                  "title": "Swift by Sundell",
+                  "link": "https://www.swiftbysundell.com/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "Swifter",
+                  "link": "https://en.swifter.tips/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Closures] How Do I Declare a Closure in Swift?",
+                  "link": "https://fuckingclosuresyntax.com/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Initializers] Swift Tutorial: Initialization In Depth, Part 1/2",
+                  "link": "https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Initializers] Swift Tutorial: Initialization In Depth, Part 2/2",
+                  "link": "https://www.kodeco.com/1219-swift-tutorial-initialization-in-depth-part-2-2"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Generics] Swift Generics Tutorial: Getting Started",
+                  "link": "https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Protocols] Separation of concerns using protocols in Swift",
+                  "link": "https://www.swiftbysundell.com/articles/separation-of-concerns-using-protocols-in-swift/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Protocols] Replacing legacy code using Swift protocols",
+                  "link": "https://www.swiftbysundell.com/articles/replacing-legacy-code-using-swift-protocols/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Protocols] Swift Optional Protocol Methods",
+                  "link": "https://useyourloaf.com/blog/swift-optional-protocol-methods/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Runtime] How does iOS Swift Runtime work",
+                  "link": "https://stackoverflow.com/questions/37315295/how-does-ios-swift-runtime-work"
+              },
+              {
+                  "type": "SITE",
+                  "title": "Variáveis e Constantes em Swift",
+                  "link": "https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Propriedades em Swift",
+                  "link": "https://pt.linkedin.com/pulse/propriedades-em-swift-pedro-menezes-/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Optional em Swift",
+                  "link": "https://dev.to/reisdev/optionals-em-swift-4lh0"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Entendendo [ weak self ] no Swift",
+                  "link": "https://medium.com/@jonatanm89/entendendo-weak-self-no-swift-2ba061326504"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Gerenciamento de memória no iOS — weak, strong e unowned",
+                  "link": "https://deciomontanhani.com.br/gerenciamento-de-memoria/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Desmistificando a programação orientada a protocolos",
+                  "link": "https://medium.com/@maclacerda/desmistificando-a-pop-2555d8335fb5"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Você sabe o que são Property Wrappers? (Parte 1)",
+                  "link": "https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Você sabe o que são Property Wrappers? (Parte 2)",
+                  "link": "https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Timer — Manipulando o tempo utilizando o Timer(iOS)",
+                  "link": "https://medium.com/@viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80"
+              },
+              {
+                  "type": "YOUTUBE",
+                  "title": "Automatizando a detecção de vazamento de memória, evitando bugs",
+                  "link": "https://www.youtube.com/watch?v=Zxo2p1MpkI4"
+              },
+              {
+                  "type": "YOUTUBE",
+                  "title": "Como trabalhar com Closures",
+                  "link": "https://www.youtube.com/watch?v=Lkv4bYzuH_Y"
+              },
+              {
+                  "type": "YOUTUBE",
+                  "title": "Desvendando o ARC no Swift",
+                  "link": "https://www.youtube.com/watch?v=CZbOUMOxtU8"
+              },
+              {
+                  "type": "YOUTUBE",
+                  "title": "Struct ou Class, pra que serve?",
+                  "link": "https://www.youtube.com/watch?v=tKSNjg9Cb_g"
+              }
+          ],
+          "alura-contents": [
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS e Swift: O que são Classes e Struct, as diferenças e quando usar",
+                  "link": "https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-us"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS - Opcionais em Swift: como utilizar?",
+                  "link": "https://www.alura.com.br/artigos/ios-opcionais-swift"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS e Swift: Entendendo o uso de Generics: Por que e como utilizar?",
+                  "link": "https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS e Swift: Como funcionam os modificadores de acesso",
+                  "link": "https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS e Swift: Conversão de dados com Codable (Encodable e Decodable)",
+                  "link": "https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable"
+              }
+          ]
+        },
+        {
+            "name": "Cocoa Touch",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Cocoa Touch é o ambiente de desenvolvimento de aplicativos para criação de softwares que rodam no iOS para iPhone e iPod Touch, iPadOS para iPad, watchOS para Apple Watch e tvOS para a Apple TV de quarta geração, da Apple Inc. O Cocoa Touch fornece uma camada de abstração do iOS, o sistema operacional para iPhone, iPod Touch e iPad. Ele é baseado no conjunto de ferramentas da API Cocoa do macOS e, como ela, é escrito principalmente na linguagem Objective-C. O Cocoa Touch permite o uso de hardware e recursos que não são encontrados nos computadores macOS e, portanto, são exclusivos da gama de dispositivos iOS. Assim como a Cocoa, o Cocoa Touch segue uma arquitetura de software Model-View-Controller (MVC). O Cocoa Touch contém um conjunto diferente de elementos de controle gráfico do Cocoa. As ferramentas para o desenvolvimento de aplicativos baseados no Cocoa Touch estão incluídas no SDK do iOS."
+            ],
+            "aditional-objectives": null,
+            "contents": [
+                {
+                    "type": "SITE",
+                    "title": "[UIKit] iOS do princípio com Swift: Primeiros passos com UIKit",
+                    "link": "https://code.tutsplus.com/pt/tutorials/ios-do-principio-com-swift-primeiros-passos-com-uikit--cms-25461"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit] UIKit: renderizando componentes no SwiftUI",
+                    "link": "https://medium.com/ioasys-voices/uikit-renderizando-componentes-no-swiftui-9ae3619916bf"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[UIKit/UIApplication] UIApplication- The centralized point of control and coordination for apps running in iOS.",
+                    "link": "https://developer.apple.com/documentation/uikit/uiapplication?language=objc"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[UIKit/UIApplication] Managing your app’s life cycle",
+                    "link": "https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[UIKit/UIApplication] UIApplicationDelegate - A set of methods to manage shared behaviors for your app.",
+                    "link": "https://developer.apple.com/documentation/uikit/uiapplicationdelegate?language=objc"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] UIView Fundamentals",
+                    "link": "https://www.weheartswift.com/uiview-fundamentals/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] UITableView - Clean Table View Code",
+                    "link": "https://www.objc.io/issues/1-view-controllers/table-views/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] UICollectionView - Custom Collection View Layouts",
+                    "link": "https://www.objc.io/issues/3-views/collection-view-layouts/"
+                },
+                {
+                    "type": "COURSE",
+                    "title": "[UIKit/UIView] Layers - CALayer Tutorial for iOS: Getting Started",
+                    "link": "https://www.kodeco.com/10317653-calayer-tutorial-for-ios-getting-started"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Demystifying iOS Layout",
+                    "link": "https://tech.gc.com/demystifying-ios-layout/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Understanding Auto Layout Constraints — Part 1",
+                    "link": "https://codeburst.io/understanding-auto-layout-constraints-part-1-844474e81d1e"
+                },
+                {
+                    "type": "COURSE",
+                    "title": "[UIKit/UIView] Layout - UIStackView Tutorial for iOS: Introducing Stack Views",
+                    "link": "https://www.kodeco.com/2198310-uistackview-tutorial-for-ios-introducing-stack-views"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Animations",
+                    "link": "https://www.objc.io/issues/12-animations/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Understanding UIView’s transform property (part 1)",
+                    "link": "https://ninjapro.wordpress.com/2016/08/23/understanding-uiviews-transform-property-part-1/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Understanding UIView’s transform property (final)",
+                    "link": "https://ninjapro.wordpress.com/2016/08/27/understanding-uiviews-transform-property-final-part/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Core​Graphics Geometry Primitives",
+                    "link": "https://nshipster.com/cggeometry/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Navigation - Improve your iOS Architecture with FlowControllers",
+                    "link": "https://www.merowing.info/improve-your-ios-architecture-with-flowcontrollers/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Navigation - Screen navigation in iOS",
+                    "link": "https://medium.com/bumble-tech/screen-navigation-in-ios-dd99b09228b2"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] UIViewController - The Role of View Controllers",
+                    "link": "https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/"
+                }
+            ]
+        },
+        {
+            "name": "Foundation",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Core Foundation (também chamado de CF) é uma interface de programação de aplicativo (API) C escrita pela Apple para seus sistemas operacionais e é uma mistura de rotinas de baixo nível e funções de wrapper. A maioria das rotinas do Core Foundation segue uma certa convenção de nomenclatura que lida com objetos opacos, por exemplo, CFDictionaryRef para funções cujos nomes começam com CFDictionary, e esses objetos geralmente são contados por referência (manualmente) por meio de CFRetain e CFRelease. Internamente, o Core Foundation forma a base dos tipos na biblioteca padrão Objective-C e na Carbon API"
+            ],
+            "aditional-objectives": null,
+            "contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "When to use Delegation, Notification, or Observation in iOS",
+                    "link": "https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Collections] The Foundation Collection Classes",
+                    "link": "https://www.objc.io/issues/7-foundation/collections/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Networking] A Crash Course on Networking in iOS",
+                    "link": "https://www.sitepoint.com/a-crash-course-on-networking-in-ios/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] Encoding and Decoding in Swift",
+                    "link": "https://www.kodeco.com/3418439-encoding-and-decoding-in-swift"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] NSCoding / NSKeyed​Archiver",
+                    "link": "https://nshipster.com/nscoding/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] Swift Codability",
+                    "link": "https://medium.com/hackernoon/swift-codability-d0d232065cad"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] Working with JSON in Swift",
+                    "link": "https://developer.apple.com/swift/blog/?id=37"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] Introduction to Protocol Buffers on iOS",
+                    "link": "https://www.kodeco.com/749-introduction-to-protocol-buffers-on-ios"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UserNotifications] UserNotifications in Swift 3 (Part 1)",
+                    "link": "https://medium.com/yay-its-erica/usernotifications-in-swift-3-part-1-d250e54440c1"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[CoreLocation] iOS Location Tracking",
+                    "link": "https://medium.com/bumble-tech/ios-location-tracking-aac4e2323629"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[CoreMotion] Process accelerometer, gyroscope, pedometer, and environment-related events.",
+                    "link": "https://developer.apple.com/documentation/coremotion?language=objc"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[CoreMotion] WWDC - Health and Fitness with Core Motion", 
+                    "link": "https://developer.apple.com/videos/wwdc2016"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[CoreMotion] WWDC - Creating Immersive Apps with Core Motion", 
+                    "link": "https://developer.apple.com/videos/wwdc2017"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[BackgroundMode] Background Modes Tutorial: Getting Started", 
+                    "link": "https://www.kodeco.com/34269507-background-modes-tutorial-getting-started"
+                }
+            ]
+        },
+        {
+            "name": "Layout",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Quando criamos uma aplicação, precisamos pensar muito em como o seu layout será desenvolvido. No mundo do desenvolvimento iOS, falando especificamente sobre o UIKit, que é um framework criado pela Apple que permite a construção de aplicações iOS, temos três diferentes modos de construir interfaces: Storyboard, XIB ou View Code."
+            ],
+            "aditional-objectives": null,
+            "contents": [
+                {
+                    "type": "YOUTUBE",
+                    "title": "Conhecendo UIVIEW e CONSTRAINTS no iOS",
+                    "link": "https://www.youtube.com/watch?v=HX38K7fz_Uw"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code",
+                    "link": "https://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Storyboard] Desmistificando Storyboards",
+                    "link": "http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "[Storyboard] Como criar um app iOS usando Storyboard",
+                    "link": "https://www.youtube.com/watch?v=hWA1WmjkxJU"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[SwiftUI] SwiftUI Notes",
+                    "link": "https://heckj.github.io/swiftui-notes/"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "[SwiftUI] Introdução ao SwiftUI - Construindo aplicativos iOS",
+                    "link": "https://www.youtube.com/watch?v=4eC49rYeugs"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] View Code em Swift",
+                    "link": "https://medium.com/mackmobile/view-code-em-swift-6026f42bf780"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Implementando interfaces iOS em view code",
+                    "link": "https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Curso iOS: Módulo sobre view code",
+                    "link": "https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Com quantas views se faz uma APP?",
+                    "link": "http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Começando com View Code no iOS",
+                    "link": "https://medium.com/@joaoalexandrebitar/come%C3%A7ando-com-view-code-no-ios-f409334ff1d"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Building an App With Only Code Using Auto Layout",
+                    "link": "https://www.kodeco.com/6004856-building-an-app-with-only-code-using-auto-layout"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] SnapKit for iOS: Constraints in a Snap",
+                    "link": "https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "[Views] Como usar ViewCode sem storyboard",
+                    "link": "https://www.youtube.com/watch?v=_zhI9Nuuw_Y"
+                }
+            ],
+            "alura-contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "iOS e Swift: Diferenças na construção de layouts com Storyboard, XIB e View Code",
+                    "link": "https://www.alura.com.br/artigos/ios-swift-diferencas-construcao-layouts-storyboard-xib-view-code"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Storyboard] Swift parte 2: UIKit, Storyboard e o padrão Delegate",
+                    "link": "https://www.alura.com.br/conteudo/swift-uikit-storyboard"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[SwiftUI] iOS: layouts com SwiftUI",
+                    "link": "https://www.alura.com.br/conteudo/swift-ui"
+                }
+            ]
+        }
+      ]
+    },
+    {
+      "name": "Nivel 2 - Intermediário",
+      "cards": [
+        {
+          "name": "Recursos Nativos",
+          "logo": null,
+          "short-description": null,
+          "key-objectives": [
+              "Recursos Nativos"
+          ],
+          "aditional-objectives": null,
+          "contents": []
+        },
+        {
+            "name": "Design Patterns",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Design Patterns"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        },
+        {
+            "name": "Version Control System",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Version Control System"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        },
+        {
+            "name": "Gerenciadores de dependencias",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Gerenciador de dependencias"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        },
+        {
+            "name": "Networking",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Networking"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        },
+        {
+            "name": "Animações",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Animações"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        }
+      ]
+    },
+    {
+      "name": "Nivel 3 - Avançado",
+      "cards": [
+        {
+            "name": "Gerenciamento de memória",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Gerenciamento de memória"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+          },
+          {
+              "name": "Multithreading e concorrência",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Multithreading e concorrência"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          },
+          {
+              "name": "Debugging",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Debugging"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          },
+          {
+              "name": "Testes Unitários",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Testes Unitários"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          },
+          {
+              "name": "Segurança",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Segurança"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          },
+          {
+              "name": "Acessibilidade",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Acessibilidade"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Infraestrutura e boas práticas",
+      "cards": [
+        {
+          "id": "git-and-github-fundamentals"
+        },
+        {
+          "id": "http-fundamentals"
+        },
+        {
+          "id": "json"
+        },
+        {
+          "id": "design-patterns"
+        },
+        {
+          "id": "command-line-fundamentals"
+        },
+        {
+          "id": "cloud-fundamentals"
+        },
+        {
+          "id": "solid"
+        },
+        {
+          "id": "clean-architecture"
+        },
+        {
+          "id": "firebase"
+        }
+      ]
+    },
+    {
+      "name": "UX & Design",
+      "cards": [
+        {
+          "id": "android-material-design-guidelines"
+        },
+        {
+          "id": "design-systems"
+        },
+        {
+          "id": "color-systems"
+        },
+        {
+          "id": "how-to-use-fonts"
+        },
+        {
+          "id": "responsive-design"
+        },
+        {
+          "id": "android-accessibility"
+        },
+        {
+          "id": "figma-fundamentals"
+        }
+      ]
+    }
+  ]
+}
