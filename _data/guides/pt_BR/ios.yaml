@@ -1,4 +1,6 @@
 name: iOS
+tags: 
+  - mobile
 expertise:
   - name: iOS Jr
     cards:
